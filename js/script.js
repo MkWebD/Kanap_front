@@ -1,6 +1,6 @@
 // Creating variable for items to inject
 const queryItems = document.getElementById("items");
-const serverUrl = "http://localhost:3000/api/products/";
+const serverUrl = "https://mkwebd-kanap-back.herokuapp.com/api/products/";
 
 // ********************************************************************************
 // Getting data from API

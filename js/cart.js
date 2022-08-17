@@ -1,5 +1,5 @@
 // Creating variable for injecting items
-const serverUrl = "http://localhost:3000/api/products/";
+const serverUrl = "https://mkwebd-kanap-back.herokuapp.com/api/products/";
 let storage = getLocalStorage();
 
 // Creating variables for selectors
