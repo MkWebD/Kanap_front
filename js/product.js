@@ -7,10 +7,8 @@ const colors = document.getElementById("colors");
 const quantity = document.getElementById("quantity");
 const addToCart = document.getElementById("addToCart");
 
-// Creating variable for url
-const serverUrl = "https://mkwebd-kanap-back.herokuapp.com/api/products/";
-
 // Creating variable for id of product
+const serverUrl = "https://mkwebd-kanap-back.cyclic.app/api/products/";
 const id = new URLSearchParams(window.location.search).get("id");
 
 // Create listener for addToCart

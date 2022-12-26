@@ -1,5 +1,5 @@
 // Creating variable for injecting items
-const serverUrl = "https://mkwebd-kanap-back.herokuapp.com/api/products/";
+const serverUrl = "https://mkwebd-kanap-back.cyclic.app/api/products/";
 let storage = getLocalStorage();
 
 // Creating variables for selectors
