@@ -8,7 +8,7 @@ const quantity = document.getElementById("quantity");
 const addToCart = document.getElementById("addToCart");
 
 // Creating variable for id of product
-const serverUrl = "https://Kanapback.kevinmas.repl.co/api/products/";
+const serverUrl = "http://137.74.193.64:3000/api/products/";
 const id = new URLSearchParams(window.location.search).get("id");
 
 // Create listener for addToCart

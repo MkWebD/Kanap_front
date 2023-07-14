@@ -1,5 +1,5 @@
 // Creating variable for injecting items
-const serverUrl = "https://Kanapback.kevinmas.repl.co/api/products/";
+const serverUrl = "http://137.74.193.64:3000/api/products/";
 let storage = getLocalStorage();
 
 // Creating variables for selectors
