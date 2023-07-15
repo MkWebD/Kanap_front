@@ -1,5 +1,5 @@
 // Creating variable for injecting items
-const serverUrl = "https://server.kevinmas.com/kanap/";
+const serverUrl = "https://server.kevinmas.com/kanap/api/products/";
 let storage = getLocalStorage();
 
 // Creating variables for selectors

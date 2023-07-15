@@ -1,6 +1,6 @@
 // Creating variable for items to inject
 const queryItems = document.getElementById("items");
-const serverUrl = "https://server.kevinmas.com/kanap/";
+const serverUrl = "https://server.kevinmas.com/kanap/api/products/";
 
 // ********************************************************************************
 // Getting data from API
